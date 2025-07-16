@@ -98,6 +98,11 @@ class ShortURLCreate(APIView):
 
 ## Output :
 ![Output](./Output%20Image/1.png)
+![Output](./Output%20Image/2.png)
+![Output](./Output%20Image/3.png)
+![Output](./Output%20Image/4.png)
+![Output](./Output%20Image/5.png)
+![Output](./Output%20Image/6.png)
 
 ## Project Structure :
 212222240119/
