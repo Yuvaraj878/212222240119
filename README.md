@@ -1,6 +1,6 @@
 <H3> Name : Yuvaraj S </H3>
 <H3> Register No : 212222240119 </H3>
-<H3> Project : URL Shortener Microservice </H3>
+<H3> Project : URL Shortener Microservice Affordmed - Backend</H3>
 
 <h1 align="center">Implementation of a URL Shortener Microservice with Analytics and Custom Logging</h1>
 
