@@ -1,7 +1,7 @@
 import requests
 
 def log_event(stack, level, package, message):
-    url = "http://<test-server-url>/log"  # Replace with actual endpoint
+    url = "http://<test-server-url>/log"  
     data = {
         "stack": stack,
         "level": level,
@@ -11,4 +11,4 @@ def log_event(stack, level, package, message):
     try:
         requests.post(url, json=data)
     except Exception:
-        pass  # Don't interrupt main logic
+        pass  
