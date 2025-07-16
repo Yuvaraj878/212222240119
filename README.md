@@ -105,6 +105,7 @@ class ShortURLCreate(APIView):
 ![Output](./Output%20Image/6.png)
 
 ## Project Structure :
+```
 212222240119/
 ├── urlshortener//│ 
 │   ├── manage.py
@@ -114,22 +115,24 @@ class ShortURLCreate(APIView):
 │   └── logging_middleware.py
 ├── DESIGN.md
 └── README.md
-
+```
 ## How to Run :
-Clone the repository:
+### Clone the repository:
+
 git clone https://github.com/Yuvaraj878/212222240119.git
+
 cd 212222240119/urlshortener
 
-Install dependencies:
+### Install dependencies:
 pip install -r requirements.txt
 
 
-Start the server:
+### Start the server:
 
 python manage.py runserver
 
 
-Test endpoints via Postman or browser.
+### Test endpoints via Postman or browser.
 
 
 
