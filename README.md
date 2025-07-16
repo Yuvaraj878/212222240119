@@ -132,7 +132,13 @@ pip install -r requirements.txt
 python manage.py runserver
 
 
-### Test endpoints via Postman or browser.
+### Test endpoints via Postman or browser:
+## To open rest api response page :
+http://127.0.0.1:8000/shorturls/git 
+
+## To open Shortend Original URL Page :
+http://localhost:8000/git
+
 
 
 
