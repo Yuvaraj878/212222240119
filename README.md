@@ -96,3 +96,37 @@ class ShortURLCreate(APIView):
 ```
 </details>
 
+## Output :
+![Output](./Output%20Image/1.png)
+
+## Project Structure :
+212222240119/
+├── urlshortener//│ 
+│   ├── manage.py
+│   ├── requirements.txt
+│   └── README.md
+├── Logging_Middleware/
+│   └── logging_middleware.py
+├── DESIGN.md
+└── README.md
+
+## How to Run :
+Clone the repository:
+git clone https://github.com/Yuvaraj878/212222240119.git
+cd 212222240119/urlshortener
+
+Install dependencies:
+pip install -r requirements.txt
+
+
+Start the server:
+
+python manage.py runserver
+
+
+Test endpoints via Postman or browser.
+
+
+
+## Result:
+Thus, a feature-rich URL Shortener backend service was successfully implemented using Django, complete with analytics tracking and custom logging middleware.
